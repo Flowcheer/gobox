@@ -11,7 +11,7 @@ This project should not be used in a production, or professional environment, as
 - Low resource usage
 
 # Usage
-You can download the project from the Versions tab, simply run it with `go run main.go` , or build it yourself.
+You can download the project from the Releases tab, simply run it with `go run main.go` , or build it yourself.
 # Flags
 ```-p [PORT] The port the server will run in. 8080 by default.```
 ```-ip [IP] The IP address the server will run in. localhost by default.```
